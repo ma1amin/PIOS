@@ -200,7 +200,7 @@ No agent can silently approve its own high-impact changes. Security reviews trus
 This package is organized into **eight functional layers** plus control documents:
 
 ### 📋 Package-Level Documents
-- **`00-README.md`** - This entry point with architecture overview
+- **`README.md`** - This entry point with architecture overview
 - **`MANIFEST.md`** - Complete file inventory and navigation map
 
 ### 🎯 Layer 01: Product & Strategy
@@ -246,7 +246,7 @@ Master prompts, agent activation, and decision governance
 
 ## 📖 Recommended Reading Order
 
-1. `00-README.md` (this file)
+1. `README.md` (this file)
 2. `MANIFEST.md`
 3. Layer 01: Product & Strategy
 4. Layer 02: Core Architecture & Infrastructure

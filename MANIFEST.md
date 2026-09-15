@@ -7,7 +7,7 @@ This manifest is the authoritative inventory and navigation map for the PIOS doc
 
 | File | Purpose |
 |---|---|
-| `00-README.md` | Human and AI entry point. Explains PIOS, the eight-layer architecture, mandatory principles, and reading order. |
+| `README.md` | Human and AI entry point. Explains PIOS, the eight-layer architecture, mandatory principles, and reading order. |
 | `MANIFEST.md` | Authoritative package inventory and dependency map. |
 
 ## Layer Map
@@ -114,7 +114,7 @@ This manifest is the authoritative inventory and navigation map for the PIOS doc
 
 ## Recommended Reading Order
 
-1. `00-README.md`
+1. `README.md`
 2. `MANIFEST.md`
 3. Layer 01: Product & Strategy
 4. Layer 02: Core Architecture & Infrastructure
@@ -128,7 +128,7 @@ This manifest is the authoritative inventory and navigation map for the PIOS doc
 ## AI Environment Loading Guidance
 
 For Manus, Claude, Codex, opencode, or another AI development environment:
-- Always load `00-README.md`, `MANIFEST.md`, `27-Project-Instructions.md`, `28-Operational-Rules.md`, `31-Guardrails.md`, and `41-Master-Startup-Prompt.md` when establishing project-wide context.
+- Always load `README.md`, `MANIFEST.md`, `27-Project-Instructions.md`, `28-Operational-Rules.md`, `31-Guardrails.md`, and `41-Master-Startup-Prompt.md` when establishing project-wide context.
 - Load only the technical/product layers relevant to the active task to reduce context noise.
 - Load `42-Developer-Execution-Prompt.md` for coding tasks.
 - Use `43-Agent-Activation-Matrix.md` to select specialists.
