@@ -18,9 +18,13 @@
 
 ---
 
-## 🎯 Core Mission
+## 📖 About PIOS
 
-**PIOS** stands for **Place Intelligence Operating System** - a revolutionary location intelligence platform designed to help users identify the best place for their specific needs, location, and context.
+PIOS (Place Intelligence Operating System) is a next-generation location intelligence platform designed to help people discover and choose the best places with confidence. Unlike traditional search and map services that rely mainly on ratings and popularity, PIOS combines data from multiple trusted sources, community knowledge, AI-powered analysis, and a proprietary trust model to deliver reliable, explainable recommendations. The platform evaluates places based on relevance, quality, consistency, proximity, and verified user experiences, then presents clear reasons behind every recommendation. Built on a scalable knowledge graph and multi-agent architecture, PIOS supports a wide range of categories including healthcare, restaurants, retail, automotive services, hospitality, and more. Its vision is to become the trusted decision layer for real-world places across the MENA region and beyond, transforming local search into intelligent, transparent, and trust-driven decision support.
+
+---
+
+## 🎯 Core Mission
 
 > **"What is the best option for this user, in this context, and why?"**
 
