@@ -205,31 +205,39 @@ This package is organized into **eight functional layers** plus control document
 
 ### 📋 Package-Level Documents
 - **`README.md`** - This entry point with architecture overview
-- **`MANIFEST.md`** - Complete file inventory and navigation map
+- **`docs/MANIFEST.md`** - Complete file inventory and navigation map
 
 ### 🎯 Layer 01: Product & Strategy
 Product vision, target users, requirements, and success criteria
+📁 `docs/Layer-01-Product-and-Strategy/`
 
 ### 🏗️ Layer 02: Core Architecture & Infrastructure  
 System architecture, infrastructure, technology stack, and data architecture
+📁 `docs/Layer-02-Core-Architecture-and-Infrastructure/`
 
 ### 🧠 Layer 03: Intelligence & Decision Engine
 Trust, review intelligence, ranking, recommendations, and explanations
+📁 `docs/Layer-03-Intelligence-and-Decision-Engine/`
 
 ### 🔧 Layer 04: Platform Engineering & Experience
 APIs, security, privacy, observability, UX, and accessibility
+📁 `docs/Layer-04-Platform-Engineering-and-Experience/`
 
 ### 🤖 Layer 05: AI Orchestration & Development Operations
 AI roles, agent specifications, skills, guardrails, and execution modes
+📁 `docs/Layer-05-AI-Orchestration-and-Development-Operations/`
 
 ### ⚙️ Layer 06: Governance, Operations & Delivery
 Autonomous operations, testing, monitoring, and delivery roadmap
+📁 `docs/Layer-06-Governance-Operations-and-Delivery/`
 
 ### 📈 Layer 07: Market, Growth & Expansion
 Competitive positioning, SEO, and regional expansion strategy
+📁 `docs/Layer-07-Market-Growth-and-Expansion/`
 
 ### 🎮 Layer 08: AI Execution & Governance Control
 Master prompts, agent activation, and decision governance
+📁 `docs/Layer-08-AI-Execution-and-Governance-Control/`
 
 ---
 
@@ -251,7 +259,7 @@ Master prompts, agent activation, and decision governance
 ## 📖 Recommended Reading Order
 
 1. `README.md` (this file)
-2. `MANIFEST.md`
+2. `docs/MANIFEST.md`
 3. Layer 01: Product & Strategy
 4. Layer 02: Core Architecture & Infrastructure
 5. Layer 03: Intelligence & Decision Engine
